@@ -402,6 +402,12 @@ img.pull-left {
 	.bgrid {
 		padding: 0 15px;
 	}
+	.nav-bar {
+		background: none repeat scroll 0 0 #ffffff;
+		position: absolute;
+		top: 0;
+		width: 100%;
+	}
 }
 @media only screen and (max-width:600px) {
 	.bgrid {
