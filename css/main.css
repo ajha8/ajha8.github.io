@@ -1048,7 +1048,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	position: relative;
 }
 .section-intro h1 {
-	font-family: "poppins-semibold", serif;
+	font-family: "playfair_display_scregular",open-sans;
 	font-size: 3.6rem;
 	color: #ffffff;
 	line-height: 1.25;
@@ -1108,8 +1108,7 @@ header .row {
 	min-height: 66px;
 }
 header .top-bar {
-	display: block;
-	background: #000000;
+	display: right;
 	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
@@ -1123,6 +1122,19 @@ header .logo {
 	margin-top: 25px;
 	position: relative;
 }
+
+#newlogo{
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+	position: absolute;
+	top:10px;
+	left:10px;
+	color: #ffffff;
+	font-size: 28px;
+	font-style: inherit;
+}
+
 header .logo a {
 	display: block;
 	margin: 0;
@@ -1152,7 +1164,7 @@ header .logo a {
 }
 .menu-toggle span {
 	display: block;
-	background-color: #FF0077;
+	background-color: rgb(253, 250, 251);
 	width: 24px;
 	height: 3px;
 	margin-top: -1.5px;
@@ -1242,8 +1254,7 @@ header .logo a {
 }
 
 /* dropdown nav */
-.main-navigation {
-	background: #000000;
+.main-navigation {	
 	padding: 24px 30px 42px;
 	margin: 0;
 	width: 100%;
@@ -1485,7 +1496,223 @@ header .logo a {
 		padding: 0 .6rem;
 	}
 	.intro-content .intro-position span::before, .intro-content .intro-position span::after {
-		display: none !important;
+		display: none !important;<a id="logo" href="http://ejosue.com" class="no-image">
+
+		Josue Espinosa 
+
+	</a>
+
+</div><!--/span_3-->
+
+<div class="col span_9 col_last">
+	
+							<div class="slide-out-widget-area-toggle mobile-icon fullscreen" data-icon-animation="simple-transform">
+			<div> <a href="#sidewidgetarea" class="closed"> <span> <i class="lines-button x2"> <i class="lines"></i> </i> </span> </a> </div> 
+		   </div>
+						
+	
+	<nav>
+
+									<ul class="buttons" data-user-set-ocm="1">
+
+				
+				
+													<li class="slide-out-widget-area-toggle" data-icon-animation="simple-transform">
+						<div> <a href="#sidewidgetarea" class="closed"> <span> <i class="lines-button x2"> <i class="lines"></i> </i> </span> </a> </div> 
+					   </li>
+											</ul>
+		
+		<ul class="sf-menu">	
+			<li class="no-menu-assigned"><a href="#">No menu assigned</a></li>						</ul>
+		
+	</nav>
+
+						
+</div><!--/span_9-->
+
+
+</div><!--/row-->
+
+</div><!--/container-->
+
+</header>
+
+
+<div class="ns-loading-cover"></div>		
+
+
+</div><!--/header-outer-->
+
+
+
+
+
+<div id="ajax-loading-screen" data-disable-fade-on-click="0" data-effect="center_mask_reveal" data-method="standard">
+
+<span class="mask-top"></span>
+<span class="mask-right"></span>
+<span class="mask-bottom"></span>
+<span class="mask-left"></span>
+</div>
+
+<div id="ajax-content-wrap">
+
+<div class="blurred-wrap">
+
+<div class="container-wrap">
+
+<div class="container main-content">
+
+<div class="row">
+
+
+<div id="fws_5eca9957ec039"  data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content standard_section vertically-align-columns  "  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color  "  style="background-color: #141e55; " data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 light left">
+<div style=" background-image: url(''); " class="vc_col-sm-6 wpb_column column_container vc_column_container col no-extra-padding" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#141e55" data-bg-opacity="0.3" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="img-with-aniamtion-wrap " data-max-width="100%"><div class="inner"><img data-shadow="none" data-shadow-direction="middle" class="img-with-animation " data-delay="0" height="2048" width="2048" data-animation="fade-in" src="http://ejosue.com/wp-content/uploads/12471560_1239672876059393_3400546420150672993_o.jpg" srcset="http://ejosue.com/wp-content/uploads/12471560_1239672876059393_3400546420150672993_o.jpg 2048w, http://ejosue.com/wp-content/uploads/12471560_1239672876059393_3400546420150672993_o-150x150.jpg 150w, http://ejosue.com/wp-content/uploads/12471560_1239672876059393_3400546420150672993_o-300x300.jpg 300w, http://ejosue.com/wp-content/uploads/12471560_1239672876059393_3400546420150672993_o-1024x1024.jpg 1024w, http://ejosue.com/wp-content/uploads/12471560_1239672876059393_3400546420150672993_o-50x50.jpg 50w, http://ejosue.com/wp-content/uploads/12471560_1239672876059393_3400546420150672993_o-100x100.jpg 100w, http://ejosue.com/wp-content/uploads/12471560_1239672876059393_3400546420150672993_o-500x500.jpg 500w, http://ejosue.com/wp-content/uploads/12471560_1239672876059393_3400546420150672993_o-1000x1000.jpg 1000w" alt="" /></div></div>
+</div> 
+</div>
+</div> 
+
+<div  class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-7-percent"  data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<h1 style="color:#efeee5">Josue Espinosa</h1>
+
+</div>
+</div>
+<div class="divider-wrap"><div style="height: 30px;" class="divider"></div></div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<p style="color:white">I am a seasoned software expert who has developed products for enterprise clients such as Intuit, Yale University, and Hewlett-Packard (HP), as well as many venture-backed businesses. I specialize in building applications specific to the business needs of my clients. I have done work in software development, mobile app creation, front-end/back-end web, database/server management, graphic design, and video game development.</p>
+
+</div>
+</div>
+
+</div> 
+</div>
+</div> 
+</div></div>
+<div id="reasons"  data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content standard_section vertically-align-columns  "  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color  "  style="background-color: #ffffff; " data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark ">
+<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col padding-3-percent" data-using-bg="true" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#f2f2f2" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+
+<div id="fws_5eca9957ed135" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    "  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   "  style=""></div> </div><div class="col span_12  ">
+<div  class="vc_col-sm-6 wpb_column column_container vc_column_container col centered-text no-extra-padding"   data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="milestone-wrap"><div class="nectar-milestone motion_blur" data-symbol="+" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="57" data-ms-align="default" > <div class="number accent-color" data-number-size="158">100</div> <div class="subject" ></div> </div></div>
+</div> 
+</div>
+</div> 
+
+<div  class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-2-percent"   data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="left" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="divider-wrap"><div style="height: 42px;" class="divider"></div></div>
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<h4 style="color:#141e55">Projects Completed</h4>
+<p>Over the past ten years, I have completed over 100 software projects including iOS/Android apps, Mac/Windows programs, Unity/Unreal video games, and web apps.</p>
+
+</div>
+</div>
+
+</div> 
+</div>
+</div> 
+</div></div>
+</div> 
+</div>
+</div> 
+</div></div>
+<div id="fws_5eca9957ed76d"  data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-content standard_section   "  style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"><div class="inner-wrap"> <div class="row-bg  using-bg-color  "  style="background-color: #ffffff; " data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div></div> </div><div class="col span_12 dark left">
+<div  class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-7-percent"  data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="#f9f9f9" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<h3 style="color:#141e55">01.&nbsp;Research</h3>
+<p>Understand the client&#8217;s subject matter completely and build on the knowledge related to it, becoming intimately familiar with the subject matter. Determine methods to address the specific customer&#8217;s needs and requirements.</p>
+
+</div>
+</div>
+
+</div> 
+</div>
+</div> 
+
+<div  class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-7-percent"  data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="#f9f9f9" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<h3 style="color:#141e55">02.&nbsp;Design</h3>
+<p>Misleadingly thought of as the superficial appearance of a product, design&nbsp;actually encompasses a lot more. It is a cross functional process that includes market research, technical research, design of a concept,&nbsp;and prototype mockup.</p>
+
+</div>
+</div>
+
+</div> 
+</div>
+</div> 
+
+<div  class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-7-percent"  data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="#f9f9f9" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+
+<div class="wpb_text_column wpb_content_element " >
+<div class="wpb_wrapper">
+<h3 style="color:#141e55">03.&nbsp;Develop</h3>
+<p>Findings from&nbsp;the research and design phases are utilized for the production of specific products including materials, systems, and methods. Engineer utilizing&nbsp;the research and designs&nbsp;to produce commercial products for the customer.</p>
+
+</div>
+</div>
+
+</div> 
+</div>
+</div> 
+</div></div>
+
+</div><!--/row-->
+
+</div><!--/container-->
+
+</div><!--/container-wrap-->
+
+
+<div id="footer-outer" data-midnight="light" data-cols="4" data-disable-copyright="false" data-using-bg-img="false" data-bg-img-overlay="0.8" data-full-width="false" data-using-widget-area="false" >
+
+
+
+
+<div class="row" id="copyright">
+
+<div class="container">
+
+					<div class="col span_5">
+		
+									<p>&copy; 2020 Josue Espinosa.  </p>
+								
+	</div><!--/span_5-->
+				
+<div class="col span_7 col_last">
+	<ul id="social">
+																										 <li><a target="_blank" href="https://www.linkedin.com/in/josueespinosa"><i class="fa fa-linkedin"></i> </a></li> 																														 <li><a target="_blank" href="https://github.com/josueespinosa"><i class="fa fa-github-alt"></i></a></li> 																								 <li><a target="_blank" href="http://stackoverflow.com/users/1757401/josue-espinosa"><i class="fa fa-stackexchange"></i></a></li> 																																			</ul>
+</div><!--/span_7-->
+
+			
+</div><!--/container-->
+
+</div><!--/row-->
+
 	}
 	.intro-social {
 		font-size: 2.4rem;
@@ -1500,7 +1727,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #about {
-	background: rgb(1,1,78);
+	background: rgb(1, 1, 78);
 	padding-top: 12rem;
 	padding-bottom: 15rem;
 }
@@ -1800,7 +2027,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #portfolio {
-	background: #FFFFFF;
+	background: rgb(233, 182, 182);
 	padding-top: 12rem;
 	padding-bottom: 12rem;
 }
