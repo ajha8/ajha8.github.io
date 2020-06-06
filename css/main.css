@@ -1071,6 +1071,15 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	line-height: 1.25;
 	margin-bottom: 1.2rem;
 }
+.section-intro h9 {
+	font-family: "playfair_display_scregular",open-sans;
+	font-size: 3.6rem;
+	color: #ffffff;
+	float: left;
+	line-height: 1.25;
+	margin-bottom: 1.2rem;
+}
+
 .section-intro h5 {
 	color: #FF0077;
 	font-size: 1.6rem;
@@ -1370,6 +1379,19 @@ header .logo a {
 	color: #FFFFFF;
 	font-family: "playfair_display_scregular", open-sans;
 	font-size: 8.4rem;
+	font-weight: inherit;
+	line-height: 1.071;
+	max-width: 900px;
+	margin-top: 0;
+	margin-bottom: .6rem;
+	margin-left: auto;
+	margin-right: auto;
+	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.intro-content h12 {
+	color: #FFFFFF;
+	font-family: "playfair_display_scregular", open-sans;
+	font-size: 18.4rem;
 	font-weight: inherit;
 	line-height: 1.071;
 	max-width: 900px;
